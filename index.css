@@ -131,6 +131,8 @@ body{
     background-color:plum;
     border-style: none;
     border-radius: 20px;
+    display: flex;
+    align-items: center;
 }
 
 .empty-btn2{
@@ -138,6 +140,8 @@ body{
     background-color:orange;
     border-style: none;
     border-radius: 20px;
+    display: flex;
+    align-items: center;
 }
 
 .empty-btn3{
@@ -145,11 +149,15 @@ body{
     background-color:lightgreen;
     border-style: none;
     border-radius: 20px;
+    display: flex;
+    align-items: center;
 }
 
 .empty-btn4{
     padding: 5px 12px;
     background-color:yellow;
+    display: flex;
+    align-items: center;
     border-style: none;
     border-radius: 20px;
 }
